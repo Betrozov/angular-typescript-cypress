@@ -4,6 +4,9 @@
     "codelyzer"
   ],
   "rules": {
+    "no-empty": false,
+    "no-unbound-method": false,
+    "no-any": false,
     "directive-selector": false,
     "component-selector": false,
     "pipe-naming": false

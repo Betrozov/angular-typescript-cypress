@@ -8,6 +8,10 @@
 
 # dependencies
 /node_modules
+package-lock.json
+
+/cypress/videos/*
+/cypress/screenshots/*
 
 # IDEs and editors
 /.idea
